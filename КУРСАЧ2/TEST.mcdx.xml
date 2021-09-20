@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ConversionLog Date="13.05.2021 22:27:10">
-  <WorksheetData SourceVersion="14/15" Source="C:\Users\Jerry\Desktop\КУРСАЧ\TEST.xmcd" Destination="C:\Users\Jerry\Desktop\КУРСАЧ\TEST.mcdx" />
-  <Worksheet SourceRegionCount="133" WorksheetIssueCount="0" RegionsWithIssueCount="17"><IssueGroup Category="Расхождения в расчетах" Count="4"><ConversionIssue Count="4" Text="При преобразовании изменился шрифт формул. Проверьте, не изменились ли результаты расчетов." /></IssueGroup><IssueGroup Category="Расхождения в отображении" Count="15"><ConversionIssue Count="13" Text="Изображение оператора изменилось по сравнению с документом-источником. Точность результатов при этом сохраняется." /><ConversionIssue Count="2" Text="Данная область была выведена из региона блока решения. Точность результатов при этом сохраняется." /></IssueGroup><IssueGroup Category="Неподдерживаемый расчет" Count="1"><ConversionIssue Count="1" Text="Аналитические преобразования функций решения не поддерживаются в данной версии PTC Mathcad." /></IssueGroup></Worksheet>
-</ConversionLog>
